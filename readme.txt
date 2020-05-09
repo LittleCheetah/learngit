@@ -5,3 +5,5 @@ Git tracks changes of files.
 
 //分支管理策略
 
+//bug分支
+
